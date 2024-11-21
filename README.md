@@ -1,3 +1,6 @@
+#2112404177---李杰的作业04
+补充后的代码如上备注
+
 # CS4277/CS5477: Structure from Motion and Bundle Adjustment
 
 ## Setting Up
